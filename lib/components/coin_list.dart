@@ -58,7 +58,7 @@ class _CoinListState extends State<CoinList> {
                             'Coin',
                             style: Theme.of(context).textTheme.headline5,
                           ),
-                          width: 50),
+                          width: 70),
                       const SizedBox(width: 170),
                       SizedBox(
                         child: Text(
